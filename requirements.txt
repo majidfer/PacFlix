@@ -1,1 +1,5 @@
-tabulate
+Library used:
+- tabulate
+- autopep8
+- pylint
+- black
